@@ -8,7 +8,7 @@
 ![2021-04-03 at 14-08-07](https://user-images.githubusercontent.com/71245238/113476931-30d4e600-949c-11eb-9c84-f7a17e5b7137.png)
 ## **Inputs**
 
-![2021-04-06 at 10-59-11](https://user-images.githubusercontent.com/71245238/113663231-4e39c800-96c7-11eb-8aef-7bcb74ce6240.png)
+![2021-04-06 at 11-30-00](https://user-images.githubusercontent.com/71245238/113665685-8ba05480-96cb-11eb-84d9-f301423034e6.png)
 ## **Output**
 
 ![2021-04-06 at 10-59-30](https://user-images.githubusercontent.com/71245238/113663242-5134b880-96c7-11eb-841d-898df8b6bbff.png)
